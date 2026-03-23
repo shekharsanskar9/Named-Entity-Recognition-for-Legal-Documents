@@ -40,6 +40,3 @@ The objective is to enable **automated legal text analysis**, improving tasks li
 
 ---
 
-## 🔍 Example Output
-
-**Input:**
